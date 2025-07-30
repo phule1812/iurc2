@@ -5,8 +5,8 @@
 - **Реалистичный режим (Realistic)**: учитывает взаимное влияние участков на параметры движения робота.
 - **Независимый режим (Independent)**: рассматривает каждое колесо отдельно (не учитывает взаимное влияние участков на параметры движения робота).
 
-![robot in environment](./robot_in_polygon.jpg)
-![kinematic robot](./kinematic_robot.jpg)
+![robot in environment](images/robot_in_polygon.jpg)
+![kinematic robot](images/kinematic_robot.jpg)
 
 ---
 
@@ -124,7 +124,7 @@ python build_heatmaps.py
 
 ## 📸 Скриншот
 
-![heatmap example](./cost_maps_side_by_side.png)
+![heatmap example](images/cost_maps_side_by_side.png)
 
 ---
 
