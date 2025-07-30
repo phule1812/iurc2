@@ -5,8 +5,7 @@
 - **Реалистичный режим (Realistic)**: учитывает взаимное влияние участков на параметры движения робота.
 - **Независимый режим (Independent)**: рассматривает каждое колесо отдельно (не учитывает взаимное влияние участков на параметры движения робота).
 
-![robot in environment](images/robot_in_polygon.jpg)
-![kinematic robot](images/kinematic_robot.jpg)
+![robot in environment](images/robot_and_polygon.png)
 
 ---
 
