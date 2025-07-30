@@ -123,7 +123,7 @@ python build_heatmaps.py
 
 ## 📸 Скриншот
 
-![heatmap example](images/cost_maps_side_by_side.png)
+![heatmap example](images/cost_maps_side_by_side_200.png)
 
 ---
 
